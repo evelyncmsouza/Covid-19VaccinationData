@@ -9,7 +9,7 @@ Disciplina: Ciência de Dados (T36 - 2º/2021)<br><br>
 </p></blockquote>
 
 <h2>PROFESSOR ORIENTADOR</h2>
-Dr. José Eduardo Storopoli<br>
+Dr. José Eduardo Storopoli<br><br>
 <blockquote><p>
   Link (2021, Outubro 25): <a href="https://storopoli.io/">https://storopoli.io/</a>
 </p></blockquote>
@@ -24,5 +24,5 @@ Dr. José Eduardo Storopoli<br>
 Disponível em: <a href="https://opendatasus.saude.gov.br/en_AU/dataset/covid-19-vacinacao">https://opendatasus.saude.gov.br/en_AU/dataset/covid-19-vacinacao</a><br>
 Acesso em: 2021, Outubro 25.</p>
 <blockquote><p>
-* Devido ao enorme volume de dados referente a campanha nacional de vacinação este projeto cobrira geograficamente o estado de Roraima, com cobertura temporal a partir do dia 17 de Janeiro de 2021 até 23 de Outubro de 2021.
+* Devido ao enorme volume de dados referente a campanha nacional de vacinação este projeto cobrirá geograficamente o estado de Roraima, com cobertura temporal a partir do dia 17 de Janeiro de 2021 até 23 de Outubro de 2021.
 </p></blockquote>
