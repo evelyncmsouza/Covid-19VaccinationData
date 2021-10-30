@@ -1,4 +1,4 @@
-<h2>PROJETO AVALIATIVO</h2>
+# PROJETO AVALIATIVO
 Universidade Nove de Julho (UNINOVE)<br>
 Graduação em Ciência da Computação<br>
 Disciplina: Ciência de Dados (T36 - 2º/2021)<br><br>
@@ -8,7 +8,7 @@ Disciplina: Ciência de Dados (T36 - 2º/2021)<br><br>
   Retrieved from <a href="https://github.com/storopoli/ciencia-de-dados">https://github.com/storopoli/ciencia-de-dados</a>
 </p></blockquote>
 
-<h2>PROFESSOR ORIENTADOR</h2>
+### PROFESSOR ORIENTADOR
 Dr. José Eduardo Storopoli<br><br>
 <blockquote><p>
   Link (2021, Outubro 25): <a href="https://storopoli.io/">https://storopoli.io/</a>
